@@ -4,8 +4,8 @@ require 'abroad/version'
 Gem::Specification.new do |s|
   s.name     = 'abroad'
   s.version  = ::Abroad::VERSION
-  s.authors  = ['Joonho Choi(REVAID ORIGIN)']
-  s.email    = ['REVAID.ORIGIN@gmail.com']
+  s.authors  = ['Cameron C. Dutro']
+  s.email    = ['camertron@gmail.com']
   s.homepage = "https://github.com/camertron/abroad"
 
   s.description = s.summary = 'A set of parsers and serializers for dealing with localization file formats.'
