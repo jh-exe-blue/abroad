@@ -138,4 +138,4 @@ This project has no external requirements.
 
 ## Authors
 
-* Man, Joonho Choi(REVAIND ORIGIN) : http://github.com/jh-exe-blue
+* Joonho Choi(REVAID ORIGIN) <REVAID.ORIGIN@gmail.com> - http://github.com/jh-exe-blue
