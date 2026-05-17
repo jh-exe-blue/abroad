@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/camertron/abroad.svg?branch=master)](https://travis-ci.org/camertron/abroad)
 
-abroad
+mabroad
 ====================
 
 A set of tools for serializing and extracting strings to and from a number of localization file formats. Currently supported formats are:
@@ -139,4 +138,4 @@ This project has no external requirements.
 
 ## Authors
 
-* Cameron C. Dutro: http://github.com/camertron
+* Man, Joonho Choi(REVAIND ORIGIN) : http://github.com/jh-exe-blue
